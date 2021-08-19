@@ -1,0 +1,57 @@
+#logo{
+    height: 100px;
+    width: 100px;
+}
+
+body{
+    background-color: skyblue;
+    text-align: left;
+}
+.copyright_footer{
+    position: fixed;
+    color: gray;
+    width: 100%;
+    background-color: cornsilk;
+    text-align: center;
+    line-height: 3;
+    bottom: 20;
+}
+.test_img_1{
+    height: 400px;
+    width: 400px;
+    border-radius: 20px;
+}
+.text_images_and_result{
+    background-color: aliceblue;
+    top: 400px;
+    width: 800px;
+    padding: 50px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px cyan;
+}
+b{
+    color: blue;
+}
+span{
+    color: magenta;
+}
+h3{
+    color: blue;
+}
+.bob3{
+    background-color: gray;
+    border-radius: 20px;
+    width: 600px;
+    height: 120px;
+    padding-top: 10px;
+}
+#final_result{
+    border-radius: 20px;
+    background-color: aliceblue;
+    padding-bottom: 200px;
+    color: magenta;
+    height: 0px;
+    width: 500px;
+    box-shadow: 5px,5px,10px,white;
+    padding-top: 50px;
+}
